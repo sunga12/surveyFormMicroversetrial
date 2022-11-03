@@ -1,0 +1,29 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    
+    background-image: url('bg.jpg');
+    background-color: rgb(97, 97, 172);
+    background-blend-mode: overlay;
+    height: 1200px;
+    width: auto;
+    text-align: center;
+    color:darkblue; 
+}
+
+.form{
+    margin: auto;
+width: 60%;
+background-color: rgb(5, 71, 71);
+height: auto;
+padding: 20px;
+}
+
+label {
+    color: aliceblue;
+    
+}
